@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Task_01/">
+    <file alias="Main.qml">/home/musa/Desktop/ITI/ITI9Month/Qt/Tasks/Task_01/Main.qml</file>
+  </qresource>
+</RCC>
+
