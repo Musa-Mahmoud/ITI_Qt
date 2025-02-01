@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appTask_02_autogen",
+	"CMAKE_BINARY_DIR" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02",
+	"CMAKE_SOURCE_DIR" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appTask_02_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/assests/ImageER.png"
+	],
+	"LOCK_FILE" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask_02_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "/home/musa/Qt/6.5.3/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask_02_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_02/Resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
