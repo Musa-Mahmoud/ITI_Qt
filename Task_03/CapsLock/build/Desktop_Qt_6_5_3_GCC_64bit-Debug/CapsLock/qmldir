@@ -1,0 +1,7 @@
+module CapsLock
+typeinfo appCapsLock.qmltypes
+prefer :/qt/qml/CapsLock/
+Main 1.0 Main.qml
+HomePage 1.0 HomePage.qml
+CapsLockPage 1.0 CapsLockPage.qml
+

@@ -1,0 +1,65 @@
+{
+    "classes": [
+        {
+            "className": "CapsLock",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "capsState",
+                    "notify": "capsStateChanged",
+                    "read": "capsState",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setCapsState"
+                }
+            ],
+            "qualifiedClassName": "CapsLock",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "state",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "capsStateChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "state",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "setCapsState",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "capsState",
+                    "returnType": "bool"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "capslock.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/CapsLock/">
+    <file alias="Main.qml">/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_03/CapsLock/Main.qml</file>
+    <file alias="HomePage.qml">/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_03/CapsLock/HomePage.qml</file>
+    <file alias="CapsLockPage.qml">/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_03/CapsLock/CapsLockPage.qml</file>
+    <file alias="resources.qrc">/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_03/CapsLock/resources.qrc</file>
+  </qresource>
+</RCC>
+
