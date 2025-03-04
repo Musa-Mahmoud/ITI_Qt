@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/CapsLock">/home/musa/Desktop/ITI/ITI9Month/Repos/ITI_Qt/Task_03/CapsLock/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CapsLock</file>
+
+  </qresource>
+</RCC>

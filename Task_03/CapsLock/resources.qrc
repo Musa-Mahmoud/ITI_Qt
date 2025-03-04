@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/icon-home.png</file>
+        <file>assets/icon-ledoff.png</file>
+        <file>assets/icon-ledon.png</file>
+        <file>assets/logo-iti.svg</file>
+        <file>assets/BlackOpsOne-Regular.ttf</file>
+    </qresource>
+</RCC>
